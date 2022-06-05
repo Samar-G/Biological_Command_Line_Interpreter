@@ -5,6 +5,6 @@ The input to your project will be a command to execute along with any parameters
 <br>
 ex.: <br> ![image](https://user-images.githubusercontent.com/88295264/172040954-0054d9ad-2d24-40b6-b64b-c8a8fe520dcd.png)
  <br>
-Contributers: <br>
+Contributor: <br>
 
-<a href="https://github.com/tokkamoh?tab=following"> Toka Mohamed </a> | Esraa Ramdan
+Samar Ghoneim |<a href="https://github.com/tokkamoh?tab=following"> Toka Mohamed </a> | Esraa Ramdan
